@@ -33,6 +33,7 @@ Sou apaixonado por transformar ideias em aplicações reais, unindo **tecnologia
 - [📅 Sistema de Agendamento via WhatsApp](https://horalinks.com) – Automação de agendamentos integrada ao WhatsApp.
 - [💳 Landing Page para Clube VIP](https://clubkosmikitravel.club) – Página otimizada para conversão e inscrição.
 - [🏗 Aplicativo de Gestão de Obras](https://obraflux.com) – Gestão de projetos e equipes para construtoras.
+- [💳 Landing Page para Cursos online](kosmiki.online) - Curso de Autoridade no Youtube.
 
 ### 📫 Contato
 
