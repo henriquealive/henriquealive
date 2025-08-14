@@ -35,9 +35,9 @@ Tenho experiência em desenvolvimento web, mobile, no-code/low-code e automaçã
 <img align="left" alt="React" title="React" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
 <img align="left" alt="Flutter" title="Flutter" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 <img align="left" alt="Node.js" title="Node.js" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
-<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right:10px" src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png"/>
+<img align="left" alt="Supabase" title="Supabase" width="30px" style="padding-right:10px" src="https://images.seeklogo.com/logo-png/43/1/supabase-logo-png_seeklogo-435677.png"/>
 <img align="left" alt="Figma" title="Figma" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
-<img align="left" alt="Canva" title="Canva" width="30px" style="padding-right:10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Canva_Logo.svg/1024px-Canva_Logo.svg.png"/>
+<img align="left" alt="Canva" title="Canva" width="30px" style="padding-right:10px" src="https://static.vecteezy.com/system/resources/previews/048/759/334/non_2x/canva-transparent-icon-free-png.png"/>
 
 <br/>
 <br/>
